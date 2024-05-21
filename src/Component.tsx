@@ -1,3 +1,3 @@
-export const Component1 = () => {
+export const Component123 = () => {
   return <div>Component1</div>;
 };
